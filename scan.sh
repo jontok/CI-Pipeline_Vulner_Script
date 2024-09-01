@@ -134,12 +134,3 @@ case "$args" in
 		showHelp
 		;;
 esac
-# case args in
-# 	"-h" | "--help") showHelp
-# 	;;
-# 	2|3) echo 2 or 3
-# 	;;
-# 	*) echo default
-# 	;;
-# esac
-
