@@ -7,14 +7,14 @@
 #                                    
 # 
 ```
-# scan.sh - NMAP sulneralbility scan scrip
+# scan.sh - NMAP Vulnerability scan script
 ## SCANNING FOR SERVER VULNERABILITIES VIA DOMAIN-NAME
 
 Features:
 - scan domainname
 - use .txt list
-- output as TXT
-- run with CI
+- output as TXT or XML
+- run with CI (non-interactive)
 
 ## Usage
 
